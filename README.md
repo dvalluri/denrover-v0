@@ -1,6 +1,7 @@
 # denrover-v0
 
-The goal is to build a basic rover with raspberry pi 5 which acts as a development tool to implement and test various planning, navigation and mapping algorithms. 
+This rover platform is designed as a lightweight testbed for experimenting with planning, navigation, and mapping algorithms.
+Initial builds focus on basic obstacle avoidance and motion control using ultrasonic sensors. Future versions will support more advanced SLAM modules with additional sensor integration.
 
 ## Hardware
 
