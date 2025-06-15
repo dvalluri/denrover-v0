@@ -9,4 +9,7 @@ The goal is to build a basic rover with raspberry pi 5 which acts as a developme
         - Raspberrypi 5 
         - 7.4 Lithium-ion batteries x 2
         - Cardboard chassis (to be replaced with custom 3D printed chassis)
+## Operating System 
+        - Ubuntu 22.04 
+        - ROS2
         
